@@ -1,7 +1,7 @@
 <h1 align="center">Portfólio</h1>
 
 <p align="center">
-  Meu portifolio ultilizando HTML, CSS e JavaScript.
+  Meu portifolio
 </p>
 
 <p align="center">
